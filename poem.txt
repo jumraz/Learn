@@ -1,8 +1,8 @@
 Rainbow-VIBGYOR
 
-Violet
+vvvvvvvvvvvvvvv
 Red
-Yellow
+yyyyyyyyyyy
 Blue
 Green
 Orange
