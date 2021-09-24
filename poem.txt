@@ -7,3 +7,7 @@ Blue
 Green
 Orange
 Indigo
+Pink
+Purple
+Gold
+Silver
